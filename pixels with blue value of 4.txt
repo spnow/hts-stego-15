@@ -1,4 +1,4 @@
-# Positions of pixels that have the same blue value:
+# Positions of pixels that have a blue value equals (4):
 ------------------------------------------------------
 
 color(R, G, B)       position(x,y)
