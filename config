@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:arcm111/hts-stego-15.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
