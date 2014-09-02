@@ -1,0 +1,8 @@
+
+1. majority of pixels (99.1%) appear only once in the image.
+2. only 579 pixels appear twice in the image.
+3. only 1 pixel appear three times in the image.
+
+4. each value (between 0 and 255) of each color component (R G B) is shared between 410 pixels except for blue value 4 (R,G,4), it is shared between 2293 pixels.
+
+5. there's no absolute black (0,0,0) or absolute white (255,255,255) colors.
