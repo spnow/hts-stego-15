@@ -57,4 +57,4 @@
 
 Minimum Value: 0 then 440
 Maximum Value: 565
-
+Mean Value: 509

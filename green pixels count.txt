@@ -57,3 +57,4 @@
 
 Minimum Value: 0 then 443
 Maximum Value: 588
+Mean Value: 509
