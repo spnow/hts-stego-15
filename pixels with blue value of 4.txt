@@ -1,4 +1,5 @@
-# Positions of pixels that have a blue value equals (4):
+# Positions of pixels that have a blue value equals (4)
+# and appear more than once in the image:
 ------------------------------------------------------
 
 color(R, G, B)       position(x,y)
